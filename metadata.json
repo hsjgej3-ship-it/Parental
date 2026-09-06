@@ -1,0 +1,6 @@
+{
+  "name": "Parental Control",
+  "description": "Secure device monitoring and safety management with mutual authorization, live location sharing, screen time limits, app blocking, website restrictions, and battery status.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
